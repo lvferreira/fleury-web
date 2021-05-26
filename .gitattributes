@@ -1,2 +1,3 @@
 *.js linguist-language=Ruby
-*.ruby linguist-detectable=true 
+*.ruby linguist-detectable=true
+*.js linguist-detectable=false
