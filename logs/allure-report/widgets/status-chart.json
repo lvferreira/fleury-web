@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e223e8ebd3eb9896",
+  "name" : "Busca de Unidade",
+  "time" : {
+    "start" : 1622051559453,
+    "stop" : 1622051566456,
+    "duration" : 7003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

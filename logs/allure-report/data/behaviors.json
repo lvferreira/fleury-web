@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "features",
+    "children" : [ {
+      "name" : "Busca de Unidade",
+      "children" : [ {
+        "name" : "Busca de Unidade",
+        "uid" : "e223e8ebd3eb9896",
+        "parentUid" : "acb8fafd3c84f0506de9b974294db76d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622051559453,
+          "stop" : 1622051566456,
+          "duration" : 7003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "acb8fafd3c84f0506de9b974294db76d"
+    } ],
+    "uid" : "05abfb73463f8510120a7c593540d7ce"
+  } ]
+}

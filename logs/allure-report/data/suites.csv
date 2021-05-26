@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 26 14:52:39 BRT 2021","Wed May 26 14:52:46 BRT 2021","7003","","Busca de Unidade","","pesquisa_unidade","","Busca de Unidade","Location - features/pesquisa_unidade.feature:8"

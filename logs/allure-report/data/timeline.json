@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DELL-G7-7588",
+    "children" : [ {
+      "name" : "56360",
+      "children" : [ {
+        "name" : "Busca de Unidade",
+        "uid" : "e223e8ebd3eb9896",
+        "parentUid" : "bca8c9404982cad6e26aebf76b7e8440",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622051559453,
+          "stop" : 1622051566456,
+          "duration" : 7003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bca8c9404982cad6e26aebf76b7e8440"
+    } ],
+    "uid" : "a8527d9ee640ea03bda318bae8922716"
+  } ]
+}

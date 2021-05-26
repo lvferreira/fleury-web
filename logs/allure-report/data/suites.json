@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Busca de Unidade",
+    "children" : [ {
+      "name" : "Busca de Unidade",
+      "uid" : "e223e8ebd3eb9896",
+      "parentUid" : "c22987258476aa7a38929d3a07006da0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622051559453,
+        "stop" : 1622051566456,
+        "duration" : 7003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c22987258476aa7a38929d3a07006da0"
+  } ]
+}

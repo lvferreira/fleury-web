@@ -1,0 +1,217 @@
+{
+  "uid" : "e223e8ebd3eb9896",
+  "name" : "Busca de Unidade",
+  "fullName" : "Busca de Unidade",
+  "historyId" : "e05046b037c32a8b2d2f7e1700f452b1",
+  "time" : {
+    "start" : 1622051559453,
+    "stop" : 1622051566456,
+    "duration" : 7003
+  },
+  "description" : "Location - features/pesquisa_unidade.feature:8",
+  "descriptionHtml" : "Location - features/pesquisa_unidade.feature:8",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Before hook (cucumber.rb:14)",
+    "time" : {
+      "start" : 1622051559454,
+      "stop" : 1622051559454,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "Before hook (cucumber.rb:22)",
+    "time" : {
+      "start" : 1622051559454,
+      "stop" : 1622051559454,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "Before hook (hooks.rb:1)",
+    "time" : {
+      "start" : 1622051559454,
+      "stop" : 1622051559454,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Location - features/pesquisa_unidade.feature:8",
+    "descriptionHtml" : "Location - features/pesquisa_unidade.feature:8",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que acesso o site do Fleury",
+      "time" : {
+        "start" : 1622051559454,
+        "stop" : 1622051563763,
+        "duration" : 4309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Quando clico na opcao de Unidades",
+      "time" : {
+        "start" : 1622051563763,
+        "stop" : 1622051563871,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "E informo as facilidades para busca",
+      "time" : {
+        "start" : 1622051563871,
+        "stop" : 1622051565374,
+        "duration" : 1503
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Então o sistema retorna a Unidade mais adequada",
+      "time" : {
+        "start" : 1622051565374,
+        "stop" : 1622051565768,
+        "duration" : 394
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "After hook (hooks.rb:6)",
+    "time" : {
+      "start" : 1622051565768,
+      "stop" : 1622051566266,
+      "duration" : 498
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3189b6a5e7dd50c2",
+      "name" : "Screenshot",
+      "source" : "3189b6a5e7dd50c2.png",
+      "type" : "image/png",
+      "size" : 1094234
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "After hook (cucumber.rb:10)",
+    "time" : {
+      "start" : 1622051566266,
+      "stop" : 1622051566456,
+      "duration" : 190
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "package",
+    "value" : "features"
+  }, {
+    "name" : "testClass",
+    "value" : "pesquisa_unidade"
+  }, {
+    "name" : "suite",
+    "value" : "Busca de Unidade"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "epic",
+    "value" : "features"
+  }, {
+    "name" : "feature",
+    "value" : "Busca de Unidade"
+  }, {
+    "name" : "thread",
+    "value" : "56360"
+  }, {
+    "name" : "host",
+    "value" : "DELL-G7-7588"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e223e8ebd3eb9896.json",
+  "parameterValues" : [ ]
+}

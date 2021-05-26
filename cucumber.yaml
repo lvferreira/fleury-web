@@ -1,0 +1,11 @@
+---
+  
+  default: -p prod -p chrome -p no_cloud_report -p allure -p bdd
+  html: --format html --out=logs/reports.html
+  no_cloud_report: --publish-quiet
+  prod: ENV_TYPE=prod
+  firefox: BROWSER=firefox
+  chrome: BROWSER=chrome  
+  allure: --format AllureCucumber::CucumberFormatter --out=logs
+  bdd: --format pretty
+
